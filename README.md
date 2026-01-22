@@ -22,24 +22,17 @@ Currently focused on improving my backend architecture skills and building produ
 
 ## Tech Stack
 - **Backend:** Python, Flask, Django, Django REST Framework
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django" />
-</p>
+
 - **Frontend:** React, HTML, CSS, Tailwind
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+
 - **Mobile:** Kivy
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kivy" />
-</p>
+
 - **Database:** MySQL, SQLite,Oracle 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,sqllite" />
-</p>
+
 - **Tools:** Git, GitHub, Linux
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,react,html,css,tailwind,mysql,sqlite,oracle,git,github,linux" />
 </p>
 
 ## Featured Projects
