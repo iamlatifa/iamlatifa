@@ -32,7 +32,7 @@ Currently focused on improving my backend architecture skills and building produ
 - **Tools:** Git, GitHub, Linux
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,html,css,tailwind,mysql,sqlite,oracle,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,react,html,css,tailwind,mysql,sqlite,git,github,linux" />
 </p>
 
 ## Featured Projects
