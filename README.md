@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=200&section=header&text=TEST%20BANNER)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=ALY%20%7C%20Full-Stack%20Developer&fontSize=36&fontColor=ffffff)
 
 # Hi, I'm ALY 👋
 
@@ -18,16 +18,29 @@ I have worked on:
 
 Currently focused on improving my backend architecture skills and building production-ready projects.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,html,css,tailwind,mysql,linux,git" />
-</p>
+
 
 ## Tech Stack
 - **Backend:** Python, Flask, Django, Django REST Framework
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,django" />
+</p>
 - **Frontend:** React, HTML, CSS, Tailwind
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 - **Mobile:** Kivy
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kivy" />
+</p>
 - **Database:** MySQL, SQLite,Oracle 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,sqllite" />
+</p>
 - **Tools:** Git, GitHub, Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
 ## Featured Projects
 🔹 **To-Do Mobile App (Kivy + Flask API)**  
