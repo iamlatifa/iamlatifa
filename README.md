@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=LATIFA%ANAYOUSS%20%7C%20Full-Stack%20Developer&fontSize=36&fontColor=ffffff)
 
-# Hi, I'm ALY 👋
+# Hi, I'm Latifa 👋
 
  Full-Stack Developer (Python & Web)  
  ISTA Agadir – Specialized Technician in Full-Stack Development (2023)
