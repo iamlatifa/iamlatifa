@@ -54,10 +54,6 @@ React-based frontend for managing attendance with a modern UI.
 - Building scalable REST APIs
 - Preparing for professional opportunities and freelance work
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=iamlatifa&show_icons=true&theme=default" />
-
-
 ## Contact
 - LinkedIn: https://linkedin.com/in/latifaanyouss
 - Email: latifaanayouss@email.com
